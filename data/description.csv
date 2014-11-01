@@ -1,6 +1,6 @@
 label,sublabel,description,styles,bgcolor
 普通ゴミ,,,img/futu02.svg,#ea3b13
-粗大ゴミ小型,,,,#685ecf
+粗大ゴミ小型,,,img/moyasanai02,#685ecf
 粗大ゴミ大型,,,,#ba5ed5
-缶ビンペットボトル,,,,#2dc7aa
-古紙古布,,,,#77ae1f
+缶ビンペットボトル,,,img/bin02.svg,#2dc7aa
+古紙古布,,,img/shigen02.svg,#77ae1f
